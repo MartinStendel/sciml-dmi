@@ -68,3 +68,13 @@
     - LSTMs, CNNs
   applications:
     - Forecasting and simulation of river networks
+- name: Martin Stendel
+  email: mas@dmi.dk
+  social:
+    github: MartinStendel
+    twitter: MartinStendel
+    mastodon: fediscience.org/@MartinStendel
+  techniques:
+    - beginner, interested in CNN
+    applications:
+    - "HTR by means of ML"
